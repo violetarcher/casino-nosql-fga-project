@@ -1,0 +1,20 @@
+{
+  "name": "casino-chatbot-server",
+  "version": "1.0.0",
+  "description": "A Node.js and Express backend for the Casino Chatbot application.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@openfga/sdk": "^0.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "lowdb": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

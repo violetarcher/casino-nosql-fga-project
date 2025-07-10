@@ -1,0 +1,25 @@
+{
+  "profiles": [
+    {
+      "id": "user_123",
+      "name": "Alice",
+      "loyaltyPoints": 1500,
+      "tier": "Gold",
+      "lastVisit": "2024-07-09"
+    },
+    {
+      "id": "user_456",
+      "name": "Bob",
+      "loyaltyPoints": 800,
+      "tier": "Silver",
+      "lastVisit": "2024-07-08"
+    },
+    {
+      "id": "user_789",
+      "name": "Cathy",
+      "loyaltyPoints": 25000,
+      "tier": "Platinum",
+      "lastVisit": "2024-07-10"
+    }
+  ]
+}
